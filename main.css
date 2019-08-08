@@ -1,0 +1,19 @@
+body {
+  background-color: #ffff00;
+}
+
+h1 {
+	color: red;
+	font-size: large;
+	font-family: "Times New Roman", serif;
+}
+
+p {
+  font-family: verdana;
+  font-size: 15px;
+}
+
+p.ital {
+	font-style: italic;
+	text-align: center;
+}
